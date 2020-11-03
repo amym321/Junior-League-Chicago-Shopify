@@ -1,0 +1,883 @@
+{
+  "current": {
+    "color_text": "#000000",
+    "color_body_text": "#000000",
+    "color_sale_text": "#ea0606",
+    "color_button": "#00529b",
+    "color_button_text": "#ffffff",
+    "color_small_button_text_border": "#00529b",
+    "color_text_field_text": "#000000",
+    "color_text_field_border": "#cccccc",
+    "color_text_field": "#fbfbfb",
+    "color_image_overlay_text": "#ffffff",
+    "color_image_overlay": "#685858",
+    "image_overlay_opacity": 10,
+    "color_borders": "#ebebeb",
+    "color_body_bg": "#ffffff",
+    "type_header_font": "itc_benguiat_n4",
+    "type_header_base_size": 30,
+    "type_base_font": "americana_n4",
+    "type_base_size": 16,
+    "predictive_search_enabled": true,
+    "predictive_search_show_vendor": false,
+    "predictive_search_show_price": false,
+    "share_facebook": true,
+    "share_twitter": false,
+    "share_pinterest": true,
+    "social_twitter_link": "https:\/\/twitter.com\/juniorleague?lang=en",
+    "social_facebook_link": "https:\/\/www.facebook.com\/JLChicago",
+    "social_pinterest_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/juniorleaguechi\/?hl=en",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "favicon": "shopify:\/\/shop_images\/JLC_Logo7-transparent.png",
+    "enable_ajax": true,
+    "checkout_header_image": "shopify:\/\/shop_images\/muzammil-soorma-5eARmrl56u0-unsplash_d_91ec88a7-9ad5-4426-802a-f302f6612645.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/JLC_Logo7-transparent_9a6b6760-cccd-478a-b857-9cf60b628144.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Lora",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "align_logo": "left",
+          "logo": "shopify:\/\/shop_images\/JLC_Logo7-transparent_9a6b6760-cccd-478a-b857-9cf60b628144.png",
+          "logo_max_width": 70,
+          "main_linklist": "main-menu",
+          "message": true,
+          "home_page_only": false,
+          "message_text": "~ Sales are Tax Exempt ~ the Junior League of Chicago is a non-profit charitable organization ~",
+          "message_link": "https:\/\/www.jlchicago.org\/",
+          "color_bg": "#00529b",
+          "color_text": "#ffffff"
+        }
+      },
+      "hero-1": {
+        "type": "hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/pedro-lastra-waedcXSIAKk-unsplash.jpg",
+          "alignment": "center",
+          "hero_layout": "full_width",
+          "hero_size": "large",
+          "text_size": "large",
+          "title": "Junior League of Chicago",
+          "text": "",
+          "button_label": "Shop Now",
+          "button_link": "shopify:\/\/collections\/all"
+        }
+      },
+      "feature-row": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/JLC_Kendra_Scott_engravable_bracelet_5-removebg-preview_Shadow.png",
+          "layout": "left",
+          "title": "Kendra Scott Engravable Bracelet",
+          "text": "<p>Engrave this beautiful Mattie Bar bracelet by Kendra Scott and 10% of proceeds of your purchase will be donated to the Junior League of Chicago.<\/p><p><\/p>",
+          "button_label": "Kendra Scott Collection",
+          "button_link": "shopify:\/\/collections\/jewelry"
+        }
+      },
+      "feature-columns": {
+        "type": "feature-columns",
+        "blocks": {
+          "feature-columns-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/mockup-of-two-bulked-wine-glasses-featuring-grapefruit-slices-36825-r-el2.png",
+              "title": "",
+              "text": "",
+              "button_label": "Stemless Wine Glass",
+              "button_link": "shopify:\/\/products\/stemless-wine-glass"
+            }
+          },
+          "feature-columns-2": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/dad-hat-mockup-of-a-woman-with-an-athleisure-outfit-32457_1.png",
+              "title": "",
+              "text": "",
+              "button_label": "Baseball Hat",
+              "button_link": "shopify:\/\/products\/baseball-hat"
+            }
+          },
+          "feature-columns-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/mockup-of-a-wine-glass-next-to-a-piece-of-cheese-36550-r-el2_1.png",
+              "title": "",
+              "text": "",
+              "button_label": "Wine Glass",
+              "button_link": "shopify:\/\/products\/wine-glass"
+            }
+          }
+        },
+        "block_order": [
+          "feature-columns-1",
+          "feature-columns-2",
+          "feature-columns-0"
+        ],
+        "settings": {
+          "title": "Some JLC Favorites",
+          "align_text": "center"
+        }
+      },
+      "collection": {
+        "type": "collection",
+        "settings": {
+          "title": "",
+          "collection": "jlc-branded-swag",
+          "grid": 4,
+          "rows": 2,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "quotes": {
+        "type": "quotes",
+        "disabled": true,
+        "blocks": {
+          "quotes-0": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author": "Author's name"
+            }
+          },
+          "quotes-1": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author": "Author's name"
+            }
+          },
+          "quotes-2": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author": "Author's name"
+            }
+          }
+        },
+        "block_order": [
+          "quotes-0",
+          "quotes-1",
+          "quotes-2"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "image-bar": {
+        "type": "image-bar",
+        "blocks": {
+          "image-bar-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ben-white-s1ihVBg5tbI-unsplash_2_0b41721f-bac0-4f84-9c9f-e014770fbb59.jpg",
+              "alignment": "center",
+              "cta_label": ""
+            }
+          },
+          "image-bar-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/jlc5.jpg",
+              "alignment": "center",
+              "cta_label": ""
+            }
+          },
+          "image-bar-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/DIAD-project-2015-640x336_b.jpg",
+              "alignment": "center",
+              "cta_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "image-bar-1",
+          "image-bar-0",
+          "image-bar-2"
+        ],
+        "settings": {
+          "section_height": "small"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "title": "Links",
+              "menu": "footer"
+            }
+          },
+          "ea59c1b3-853c-4c73-b629-3dc7c5fac274": {
+            "type": "text",
+            "settings": {
+              "title": "Need a hand?",
+              "text": "<p>You can contact JaCee Burnes, Director of Operations, with any questions at:  <a href=\"mailto:jburnes@jlchicago.org\" target=\"_blank\">jburnes@jlchicago.org<\/a><\/p><p><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "ea59c1b3-853c-4c73-b629-3dc7c5fac274"
+        ],
+        "settings": {
+          "show_payment_icons": true,
+          "color_footer_bg": "#f6f6f6",
+          "color_footer_text": "#00529b",
+          "show_locale_selector": false,
+          "show_currency_selector": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_quantity_selector": false,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "You may also like",
+          "show_vendor": false
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "grid": 3
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "grid": 3,
+          "rows": 2,
+          "show_collection_image": true,
+          "show_vendor": false,
+          "sort_enable": true,
+          "tags_enable": true
+        }
+      },
+      "1602199516b618ccb7": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "1602199516b618ccb7-0": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p>Junior League of Chicago members are passionate about giving back to their community. Members participate in a variety of events throughout Chicago. Each year, The Junior League of Chicago donates over 125,000 volunteer hours to community agencies and programs that support child welfare and education.<\/p><p>Your purchases help fund these important initiatives. Support our mission and look good in JLC-branded swag when you purchase from the Junior League of Chicago store!<\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "1602199516b618ccb7-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/jlc10_d3bf8ae3-e6d7-412b-8b6f-794b3deb6ad9.jpg",
+              "width": "50%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1602199516b618ccb7-0",
+          "1602199516b618ccb7-1"
+        ],
+        "settings": {
+          "title": "Shop To Support Our Community"
+        }
+      },
+      "16022502102508db9e": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "8e234e7d-71c3-495a-8ccf-187e50123b23": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "",
+              "width": "50%",
+              "alignment": "bottom-middle",
+              "align_text": "left"
+            }
+          }
+        },
+        "block_order": [
+          "8e234e7d-71c3-495a-8ccf-187e50123b23"
+        ],
+        "settings": {
+          "title": "Shop To Support"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_ajax_enable": true,
+          "cart_notes_enable": true
+        }
+      },
+      "1602690513425": {
+        "type": "featured-blog",
+        "settings": {
+          "title": "JLC Blog",
+          "blog": "news",
+          "post_limit": 3,
+          "blog_show_author": false,
+          "blog_show_date": true,
+          "show_view_all": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "show_share_buttons": true
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "list",
+          "blog_show_author": true,
+          "blog_show_date": true
+        }
+      },
+      "16028101324b47bd96": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/jlc10_d3bf8ae3-e6d7-412b-8b6f-794b3deb6ad9.jpg",
+          "layout": "right",
+          "title": "COMMUNITY COMMITMENT",
+          "text": "<p>Junior League of Chicago members are passionate about giving back to their community. Members participate in a variety of events throughout Chicago. Each year, The Junior League of Chicago donates over 125,000 volunteer hours to community agencies and programs that support child welfare and education.<\/p><p>Whether it’s performing story time for children or teaching about healthy eating through our signature programs, the Junior League of Chicago members are out and about year round!<\/p>",
+          "button_label": ""
+        }
+      },
+      "160295964191ddf696": {
+        "type": "feature-row",
+        "disabled": true,
+        "settings": {
+          "image": "shopify:\/\/shop_images\/donate_2B.jpg",
+          "layout": "left",
+          "title": "DONATIONS GO A LONG WAY",
+          "text": "<p>Drop boxes are open 24 hours and available in most areas. We ask that all items be in a 13 gallon trash bag and non breakable. We collect <strong>men, women, and children&#x27;s clothing<\/strong> including hats, belts, shoes, purses and small household items. Please make sure all items are in a kitchen size bag (13 gallon).<\/p><p>To donate, place your items in the drop box and call 312-123-4567 for a tax receipt. The charitable beneficiary for each box is displayed on the front of the box. If  you wish to locate the nearest drop box to you, please contact us.<\/p>",
+          "button_label": ""
+        }
+      },
+      "1602959683ca4d5715": {
+        "type": "map",
+        "disabled": true,
+        "settings": {
+          "heading": "Roscoe Village Location",
+          "address": "<p>2000 Roscoe Street<br\/>Chicago, IL 60618<\/p><p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 5pm<\/p>",
+          "map_address": "2000 Roscoe Street Chicago, IL 60618",
+          "button_text": "Get directions",
+          "show_pin": true,
+          "api_key": "",
+          "background_image": "shopify:\/\/shop_images\/kiosk5b_78fae326-85d5-4c9a-ac63-dd527db6f853.jpg",
+          "background_image_position": "center right"
+        }
+      },
+      "160296019649c03abe": {
+        "type": "map",
+        "disabled": true,
+        "settings": {
+          "heading": "Ukrainian Village Location",
+          "address": "<p>2015 West Augusta Blvd<br\/>Chicago, IL 60622<\/p><p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 5pm<\/p>",
+          "map_address": "301 Front St W, Toronto",
+          "button_text": "Get directions",
+          "show_pin": true,
+          "api_key": "",
+          "background_image": "shopify:\/\/shop_images\/kiosk3.jpg",
+          "background_image_position": "center center"
+        }
+      },
+      "1602961190f2d65c50": {
+        "type": "rich-text",
+        "settings": {
+          "full_width": false,
+          "section_title": "",
+          "text": "",
+          "text_size": "small"
+        }
+      },
+      "1603306053f4351045": {
+        "type": "map",
+        "settings": {
+          "heading": "JLC Headquarters",
+          "address": "<p>1447 N. Astor Street<br\/>Chicago, IL 60610<\/p><p>Mon - Wed, 9am - 8pm<br\/>Thurs - Fri, 9am - 5pm<\/p>",
+          "map_address": "1447 N. Astor Street Chicago, IL 60610",
+          "button_text": "Get directions",
+          "show_pin": true,
+          "api_key": "",
+          "background_image": "shopify:\/\/shop_images\/map.jpg",
+          "background_image_position": "center center"
+        }
+      },
+      "1603497500201a0fa2": {
+        "type": "collection-list",
+        "blocks": {
+          "1603497500201a0fa2-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "clothing"
+            }
+          },
+          "1603497500201a0fa2-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "jewelry"
+            }
+          },
+          "1603497500201a0fa2-2": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "drinkware"
+            }
+          }
+        },
+        "block_order": [
+          "1603497500201a0fa2-0",
+          "1603497500201a0fa2-1",
+          "1603497500201a0fa2-2"
+        ],
+        "settings": {
+          "title": "JLC SWAG",
+          "grid": 3
+        }
+      }
+    },
+    "content_for_index": [
+      "hero-1",
+      "1602199516b618ccb7",
+      "16022502102508db9e",
+      "16028101324b47bd96",
+      "160295964191ddf696",
+      "1603497500201a0fa2",
+      "feature-columns",
+      "feature-row",
+      "collection",
+      "image-bar",
+      "1602690513425",
+      "1602959683ca4d5715",
+      "160296019649c03abe",
+      "1603306053f4351045",
+      "1602961190f2d65c50"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {}
+        },
+        "hero-1": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "large",
+            "text_size": "large"
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {}
+        },
+        "feature-columns": {
+          "type": "feature-columns",
+          "blocks": {
+            "feature-columns-0": {
+              "type": "text_block",
+              "settings": {}
+            },
+            "feature-columns-1": {
+              "type": "text_block",
+              "settings": {}
+            },
+            "feature-columns-2": {
+              "type": "text_block",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "feature-columns-0",
+            "feature-columns-1",
+            "feature-columns-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "grid": 4
+          }
+        },
+        "hero-2": {
+          "type": "hero",
+          "settings": {
+            "text_size": "large"
+          }
+        },
+        "quotes": {
+          "type": "quotes",
+          "blocks": {
+            "quotes-0": {
+              "type": "quote",
+              "settings": {}
+            },
+            "quotes-1": {
+              "type": "quote",
+              "settings": {}
+            },
+            "quotes-2": {
+              "type": "quote",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "quotes-0",
+            "quotes-1",
+            "quotes-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "image-bar": {
+          "type": "image-bar",
+          "blocks": {
+            "image-bar-0": {
+              "type": "image",
+              "settings": {}
+            },
+            "image-bar-1": {
+              "type": "image",
+              "settings": {}
+            },
+            "image-bar-2": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "image-bar-0",
+            "image-bar-1",
+            "image-bar-2"
+          ],
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {}
+            },
+            "footer-1": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        }
+      },
+      "content_for_index": [
+        "hero-1",
+        "feature-row",
+        "feature-columns",
+        "collection",
+        "hero-2",
+        "quotes",
+        "image-bar"
+      ]
+    },
+    "Light": {
+      "color_text": "#162950",
+      "color_body_text": "#6d6d6d",
+      "color_sale_text": "#DA2F0C",
+      "color_borders": "#e4e4e4",
+      "color_button": "#DA2F0C",
+      "color_button_text": "#ffffff",
+      "color_small_button_text_border": "#162950",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "#162950",
+      "color_text_field_border": "#909090",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#3d3d3d",
+      "image_overlay_opacity": 40,
+      "color_body_bg": "#f8f8f8",
+      "type_header_font": "muli_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "muli_n4",
+      "type_base_size": 18,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#e8f3f6",
+      "checkout_heading_font": "Roboto",
+      "checkout_body_font": "Source Sans Pro",
+      "checkout_accent_color": "#1990c6",
+      "checkout_button_color": "#23314e",
+      "checkout_error_color": "#ff6d6d",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "align_logo": "left",
+            "logo": "",
+            "logo_max_width": 135,
+            "main_linklist": "main-menu",
+            "message": true,
+            "color_bg": "#162950",
+            "color_text": "#ffffff"
+          }
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "alignment": "center",
+            "hero_size": "x-large",
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center center"
+              }
+            },
+            "1492095993817": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "1492095993817"
+          ],
+          "settings": {
+            "slideshow_height": "medium",
+            "text_size": "medium",
+            "autorotate": false,
+            "autorotate_speed": 5
+          }
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "grid": 3,
+            "rows": 1,
+            "show_vendor": true,
+            "show_view_all": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_vendor": false,
+            "show_share_buttons": true,
+            "media_size": "medium",
+            "enable_image_zoom": true,
+            "enable_video_looping": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "layout": "grid",
+            "grid": 2,
+            "rows": 2,
+            "show_collection_image": true,
+            "show_vendor": false,
+            "sort_enable": true,
+            "tags_enable": true
+          }
+        },
+        "1492033809691": {
+          "type": "map",
+          "settings": {}
+        },
+        "1492033877875": {
+          "type": "quotes",
+          "blocks": {
+            "1492033877875-0": {
+              "type": "quote",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1492033877875-0"
+          ],
+          "settings": {}
+        },
+        "1492033924902": {
+          "type": "custom-content",
+          "blocks": {
+            "1492033924902-0": {
+              "type": "text",
+              "settings": {
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492033924902-0"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "1492096252560": {
+          "type": "collection-list",
+          "blocks": {
+            "1492096252560-0": {
+              "type": "featured_collection",
+              "settings": {}
+            },
+            "1492096252560-1": {
+              "type": "featured_collection",
+              "settings": {}
+            },
+            "1492096252560-2": {
+              "type": "featured_collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1492096252560-0",
+            "1492096252560-1",
+            "1492096252560-2"
+          ],
+          "settings": {
+            "grid": 3
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "layout": "grid",
+            "blog_show_author": true,
+            "blog_show_date": false
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_author": true,
+            "blog_show_date": true,
+            "show_share_buttons": true
+          }
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_notes_enable": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "link_list": {
+              "type": "link_list",
+              "settings": {}
+            },
+            "text": {
+              "type": "text",
+              "settings": {}
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "link_list",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+            "color_footer_bg": "#f8f8f8",
+            "color_footer_text": "#6d6d6d"
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "slideshow",
+        "1492033924902",
+        "1492096252560",
+        "1492033877875",
+        "1492033809691"
+      ]
+    }
+  }
+}
