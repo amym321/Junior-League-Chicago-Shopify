@@ -75,7 +75,7 @@
           "title": "Junior League of Chicago",
           "text": "",
           "button_label": "Shop Now",
-          "button_link": "shopify:\/\/collections\/all"
+          "button_link": "shopify:\/\/collections\/all-products"
         }
       },
       "feature-row": {
@@ -282,7 +282,7 @@
         "settings": {
           "layout": "grid",
           "grid": 3,
-          "rows": 2,
+          "rows": 4,
           "show_collection_image": true,
           "show_vendor": false,
           "sort_enable": true,
@@ -478,6 +478,35 @@
           "title": "JLC SWAG",
           "grid": 3
         }
+      },
+      "16056625701480dfc2": {
+        "type": "image-bar",
+        "disabled": true,
+        "blocks": {
+          "16056625701480dfc2-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/map7.jpg",
+              "alignment": "center",
+              "cta_label": ""
+            }
+          },
+          "16056625701480dfc2-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hq3.png",
+              "alignment": "center",
+              "cta_label": "Headquarters"
+            }
+          }
+        },
+        "block_order": [
+          "16056625701480dfc2-1",
+          "16056625701480dfc2-0"
+        ],
+        "settings": {
+          "section_height": "medium"
+        }
       }
     },
     "content_for_index": [
@@ -494,6 +523,7 @@
       "1602690513425",
       "1602959683ca4d5715",
       "160296019649c03abe",
+      "16056625701480dfc2",
       "1603306053f4351045",
       "1602961190f2d65c50"
     ]
@@ -503,7 +533,8 @@
       "sections": {
         "header": {
           "type": "header",
-          "settings": {}
+          "settings": {
+          }
         },
         "hero-1": {
           "type": "hero",
@@ -514,22 +545,26 @@
         },
         "feature-row": {
           "type": "feature-row",
-          "settings": {}
+          "settings": {
+          }
         },
         "feature-columns": {
           "type": "feature-columns",
           "blocks": {
             "feature-columns-0": {
               "type": "text_block",
-              "settings": {}
+              "settings": {
+              }
             },
             "feature-columns-1": {
               "type": "text_block",
-              "settings": {}
+              "settings": {
+              }
             },
             "feature-columns-2": {
               "type": "text_block",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -558,15 +593,18 @@
           "blocks": {
             "quotes-0": {
               "type": "quote",
-              "settings": {}
+              "settings": {
+              }
             },
             "quotes-1": {
               "type": "quote",
-              "settings": {}
+              "settings": {
+              }
             },
             "quotes-2": {
               "type": "quote",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -583,15 +621,18 @@
           "blocks": {
             "image-bar-0": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             },
             "image-bar-1": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             },
             "image-bar-2": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -599,18 +640,21 @@
             "image-bar-1",
             "image-bar-2"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "footer": {
           "type": "footer",
           "blocks": {
             "footer-0": {
               "type": "link_list",
-              "settings": {}
+              "settings": {
+              }
             },
             "footer-1": {
               "type": "newsletter",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -761,20 +805,23 @@
         },
         "1492033809691": {
           "type": "map",
-          "settings": {}
+          "settings": {
+          }
         },
         "1492033877875": {
           "type": "quotes",
           "blocks": {
             "1492033877875-0": {
               "type": "quote",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
             "1492033877875-0"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "1492033924902": {
           "type": "custom-content",
@@ -800,15 +847,18 @@
           "blocks": {
             "1492096252560-0": {
               "type": "featured_collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "1492096252560-1": {
               "type": "featured_collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "1492096252560-2": {
               "type": "featured_collection",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -847,15 +897,18 @@
           "blocks": {
             "link_list": {
               "type": "link_list",
-              "settings": {}
+              "settings": {
+              }
             },
             "text": {
               "type": "text",
-              "settings": {}
+              "settings": {
+              }
             },
             "newsletter": {
               "type": "newsletter",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
